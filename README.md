@@ -18,6 +18,7 @@
 | [0013-roman-to-integer](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0027-remove-element/) | Easy |
+| [0125-valid-palindrome](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0125-valid-palindrome/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
