@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0066-plus-one/) | Easy |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0031-next-permutation/) | Medium |
 | [0125-valid-palindrome](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
