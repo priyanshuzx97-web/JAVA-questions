@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0189-rotate-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | [0035-search-insert-position](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0189-rotate-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@
 | ------- | ------- |
 | [0027-remove-element](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
