@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | [0054-spiral-matrix](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0189-rotate-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -58,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
