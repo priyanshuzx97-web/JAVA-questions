@@ -25,6 +25,7 @@
 | [0014-longest-common-prefix](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0035-search-insert-position/) | Easy |
+| [0056-merge-intervals](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0066-plus-one/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -39,4 +40,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0035-search-insert-position/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0056-merge-intervals/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
