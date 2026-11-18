@@ -27,6 +27,7 @@
 | [0027-remove-element](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0035-search-insert-position/) | Easy |
+| [0054-spiral-matrix](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0189-rotate-array/) | Medium |
@@ -53,4 +54,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0056-merge-intervals/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/priyanshuzx97-web/JAVA-questions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
